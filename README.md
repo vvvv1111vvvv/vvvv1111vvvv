@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
 - 👋 Hi, I’m @vvvv1111vvvv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Electric and Computer Enginnering in University of Seoul
